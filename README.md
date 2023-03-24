@@ -1,6 +1,8 @@
 # Advance Proxy Scraping, Proxy Recon, and Proxy Chaining Detection Tool
 This is an advanced tool that allows you to test proxies for connectivity and perform various proxy-related operations. Below are the features of this tool:
 
+![proxycat](https://user-images.githubusercontent.com/94799915/227518177-c196b80b-d7e7-4930-9d55-7163f855b26c.png)
+
 ## Features
 ### Test Proxy Connectivity
 Use the **`-t`** or **`--test`** option to test a proxy for connectivity. You will need to provide the IP address, port number, and protocol type of the proxy using the **`-i`**, **`-p`**, and **`-po`** options respectively. for help you can use **`-h`** and **`--help`**
