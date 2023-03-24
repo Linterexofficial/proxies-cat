@@ -1,7 +1,7 @@
 # Advance Proxy Scraping, Proxy Recon, and Proxy Chaining Detection Tool
 This is an advanced tool that allows you to test proxies for connectivity and perform various proxy-related operations. Below are the features of this tool:
 
-![proxycat](https://user-images.githubusercontent.com/94799915/227518177-c196b80b-d7e7-4930-9d55-7163f855b26c.png)
+![proxycat](https://user-images.githubusercontent.com/94799915/227518598-c6d3d662-2c81-43aa-bff1-8081c8b6a548.png)
 
 ## Features
 ### Test Proxy Connectivity
