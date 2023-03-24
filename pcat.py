@@ -335,7 +335,7 @@ def detect_chaining_of_proxies():
     option = input("[1] check a single IP?\n[2] check IPs by file?\n: ")
     if option == '1':
         ip = input("Enter the IP address: ")
-        detect_chaining(ip)
+        detect_chaining(ip.strip())
     elif option == '2':
         filepath = input("Enter the path of the file containing IPs: ")
         with open(filepath, 'r') as f:
